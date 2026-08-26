@@ -4,7 +4,7 @@
 
 Goals for course:
 - To better understand the programs.
-- to get a good grip on the entire process.
+- To get a good grip on the entire process.
 - A good starting point to get my foot in the door somewhere to start growing.
 
 [Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)
