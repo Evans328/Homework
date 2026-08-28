@@ -1,9 +1,8 @@
 # Blake Evans
 
-## Hi! I like hiking, primitive camping, and working on computers. I have messed with HTML, and CSS mostly to mess around
-with websites. I have a demanding cat, that does not like me sitting at my desk. As you can see with this picture during class...
+### Hi! I like hiking, primitive camping, and working on computers. I have messed with HTML, and CSS mostly to mess around with websites. I have a demanding cat, that does not like me sitting at my desk. As you can see with this picture during class... ###
 
-![alt text](Buddy.jpg)
+<img src="Buddy.jpg" width="200" height="300" alt="">
 
 Goals for course:
 - To better understand the programs.
