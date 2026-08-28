@@ -9,8 +9,6 @@ Goals for course:
 
 [Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)
 
-![alt text](HOMER.jpg)
-
 I enjoy coming together and solving problems and searching for answers, like with data, as a team and or if I am alone. 
 
 ---
