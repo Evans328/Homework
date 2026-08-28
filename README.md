@@ -14,13 +14,6 @@ Goals for course:
 
 [Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)
 
-
-The best days for me at my job now are the only days they have issues and do not yet know what to do.
-I enjoy coming together and solving problems and searching for answers, kind of like with data, as a team, 
-or if I am alone I would like to know I can accomplish the tasks needed, or teach myself a new way.
-
----
-
 ![alt text](0x0.webp)
 
----
+I am not sure completely, the thought of working in a team and getting to collaborate together is my type of place, in the long run it would be some image portraying a good job and cozy life after building up.
