@@ -5,8 +5,8 @@
 <img src="Buddy.jpg" width="200" height="300" alt="">
 
 Goals for course:
-- To better understand the programs.
-- To get a good grip on the entire process.
+- To build a well rounded group of skills for success.
+- To get a good grip on the entire process from start to finish, including the software.
 - A good starting point to get my foot in the door somewhere to start growing.
 
 ## I Found this article below interesting. (But I like code) ##
@@ -17,4 +17,4 @@ Goals for course:
 
 I am not sure completely, the thought of working in a team and getting to collaborate together is my type of place. The only good days at my current job (for now), are when problems come up, and nobody knows what to do, then we start coming together to find a solution and ways to make it better.
 
-Quality control is nice sometimes because I get to find the issues and figure out a fix, then log everything.
+Quality control is nice sometimes, because I get to find the issues and figure out a fix, then log everything.
