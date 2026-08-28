@@ -13,7 +13,7 @@ Goals for course:
 
 [Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)
 
-![alt text](0x0.webp)
+<img src="0x0.webp" width="400" height="600" alt="">
 
 I am not sure completely, the thought of working in a team and getting to collaborate together is my type of place. The only good days at my current job (for now), are when problems come up, and nobody knows what to do, then we start coming together to find a solution and ways to make it better.
 
