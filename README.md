@@ -1,18 +1,17 @@
 # Blake Evans
 
-## Hi! I like hiking, primitive camping, and working on computers. I have messed with HTML, and CSS mostly to mess around
-with websites. I have a demanding cat, that does not like me sitting at my desk. As you can see with this picture during class...
+### Hi! I like hiking, primitive camping, and working on computers. I have messed with HTML, and CSS mostly to mess around with websites. I have a demanding cat, that does not like me sitting at my desk. As you can see with this picture during class... ###
 
-![alt text](Buddy.jpg)
+<img src="Buddy.jpg" width="300" height="500" alt="Logo">
 
-Goals for course:
+**Goals for course:**
 - To better understand the programs.
 - To get a good grip on the entire process.
 - A good starting point to get my foot in the door somewhere to start growing.
 
 ## I Found this article below interesting. (But I like code) ##
 
-[Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)
+**[Python Wasn't Built in a Day: An Origin Story Worth Knowing](https://ospo.gwu.edu/python-wasnt-built-day-origin-story-worth-knowing)**
 
 ![alt text](0x0.webp)
 
