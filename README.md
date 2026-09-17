@@ -17,8 +17,4 @@ Goals for course:
 
 I am not sure completely, the thought of working in a team and getting to collaborate together is my type of place. The only good days at my current job (for now), are when problems come up, and nobody knows what to do, then we start coming together to find a solution and ways to make it better.
 
-<<<<<<< HEAD
-Quality control is nice sometimes because I get to find the issues and figure out a fix, then log everything.
-=======
 Quality control is nice sometimes, because I get to find the issues and figure out a fix, then log everything.
->>>>>>> ce57b4888934ec1c02fc1bb95fe2ab0380cb81ed
