@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1816"/><column_width id="4" width="0"/></tab_structure><tab_browse><table title="." custom_title="0" dock_id="5" table="0,0:"/><dock_state state="000000ff00000000fd0000000100000002000005510000032ffc0100000003fb000000160064006f0063006b00420072006f00770073006500310100000000000005510000000000000000fb000000160064006f0063006b00420072006f00770073006500340100000000000005510000000000000000fb000000160064006f0063006b00420072006f00770073006500350100000000000005510000011700ffffff000005510000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT PowerTrain, COUNT(*) AS numCars
+FROM evCars
+GROUP BY PowerTrain;</sql><sql name="SQL 2">UPDATE evCars
+SET PowerTrain = 'AWD'
+WHERE PowerTrain = 'All Wheel Drive';
+
+UPDATE evCars
+SET PowerTrain = 'RWD'
+WHERE PowerTrain = 'Rear Wheel Drive';
+
+UPDATE evCars
+SET PowerTrain = 'FWD'
+WHERE PowerTrain = 'Front Wheel Drive';</sql><sql name="SQL 3">SELECT *
+FROM evCars;</sql><sql name="SQL 4">SELECT PriceEuro,
+       ROUND(PriceEuro * 1.09, 2) AS PriceUSD
+FROM evCars;</sql><sql name="SQL 5">UPDATE evCars
+SET PriceEuro = ROUND(PriceEuro * 1.09, 2);</sql><sql name="SQL 6">ALTER TABLE evCars
+RENAME COLUMN PriceEuro TO PriceUSD;</sql><current_tab id="5"/></tab_sql></sqlb_project>
