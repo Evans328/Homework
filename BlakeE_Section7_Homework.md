@@ -4,14 +4,12 @@
 ```sql
 SELECT "ModelYear", Make, Model
 FROM EVRegistry
-```sql
 ```
 2. Using the EVRegistry table, Write a query that lists all of the unique types of EV's. your reult set should have one column, `ElectricVehicleType`.
 ```sql
 SELECT "Electric Vehicle Type"
 FROM EVRegistry
 ORDER BY "Electric Vehicle Type";
-```sql
 ```
 
 3. Using the EVRegistry, Write a query that shows all of the information on Battery Electric Vehicles (BEV) that are in the registry.
